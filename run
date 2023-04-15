@@ -1,0 +1,3 @@
+rm -rf ./Lab9
+cc Lab9.c -o Lab9
+./Lab9
